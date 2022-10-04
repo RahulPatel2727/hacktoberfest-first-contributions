@@ -27,6 +27,7 @@ nowy wpis
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [Hari Krishna](https://github.com/SHIVANATHRIHARIKRISHNA)
 - [axyut](https://github.com/axyut)
+- [Rahul Patel](https://github.com/RahulPatel2727)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
